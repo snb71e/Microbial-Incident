@@ -19,3 +19,6 @@ The goal of this project is to answer a fundamental physics question regarding p
 * **Base Design:** Modeling a realistic Mars base layout, including residential areas, ventilation systems, and the BSL-4 containment lab.
 * **Airflow Vector Field Design:** Applying principles from the **Navier-Stokes Equations** to establish air circulation patterns.
 * **Diffusion Simulation:** Modeling the spread of microbial aerosols over time using computational diffusion models, visualizing the impact of varying diffusion coefficients ($D$) through heatmaps.
+
+<video src="assets/navier-stokes.mp4" width="100%" autoplay loop muted playsinline></video>
+
