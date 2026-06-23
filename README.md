@@ -6,6 +6,9 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)
 ![Physics](https://img.shields.io/badge/Physics-Simulation-success?style=flat-square)
 
+<img src="assets/navier-stokes.gif" width="100%" alt="Navier-Stokes Simulation">
+
+
 ## 📌 Overview
 As human space exploration advances, the issues of **Forward Contamination** (Earth life contaminating other planets) and **Backward Contamination** (extraterrestrial microbes entering Earth's ecosystem) have become critical research topics. 
 
@@ -19,6 +22,3 @@ The goal of this project is to answer a fundamental physics question regarding p
 * **Base Design:** Modeling a realistic Mars base layout, including residential areas, ventilation systems, and the BSL-4 containment lab.
 * **Airflow Vector Field Design:** Applying principles from the **Navier-Stokes Equations** to establish air circulation patterns.
 * **Diffusion Simulation:** Modeling the spread of microbial aerosols over time using computational diffusion models, visualizing the impact of varying diffusion coefficients ($D$) through heatmaps.
-
-<video src="assets/navier-stokes.mp4" width="100%" autoplay loop muted playsinline></video>
-
