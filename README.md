@@ -6,7 +6,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)
 ![Physics](https://img.shields.io/badge/Physics-Simulation-success?style=flat-square)
 
-<img src="assets/navier-stokes.gif" width="100%" alt="Navier-Stokes Simulation">
+<img src="assets/navier-stokes.gif" width="50%" alt="Navier-Stokes Simulation">
 
 
 ## 📌 Overview
